@@ -1,0 +1,3800 @@
+{
+  "name": "闻舟专属表情包库",
+  "version": "1.0.0",
+  "count": 200,
+  "usage": {
+    "principle": "按聊天语境选择最贴切的表情包，不要每条消息都发送。",
+    "preferred_frequency": "occasional",
+    "selection_priority": [
+      "scene",
+      "emotion",
+      "keywords",
+      "original_description"
+    ]
+  },
+  "stickers": [
+    {
+      "source": "呆猫八条",
+      "name": "小猫手里拿红包配文 “ 九九成稀罕物",
+      "url": "https://pic1.imgdb.cn/i/033tXnF2WYWeRbA78SURXJ.jpg",
+      "original_description": "小猫手里拿红包配文 “ 九九成稀罕物",
+      "id": "sticker_001",
+      "format": "jpg",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "小猫手里拿红包配文",
+        "“",
+        "九九成稀罕物"
+      ]
+    },
+    {
+      "source": "呆猫八条",
+      "name": "小猫躲在墙边偷看",
+      "url": "https://pic1.imgdb.cn/i/033tWPWeOnGQafzIhKOQIy.jpg",
+      "original_description": "小猫躲在墙边偷看",
+      "id": "sticker_002",
+      "format": "jpg",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "小猫躲在墙边偷看"
+      ]
+    },
+    {
+      "source": "呆猫八条",
+      "name": "小猫趴下眼睛亮晶晶配文 “ 咪 ”",
+      "url": "https://pic1.imgdb.cn/i/033tY82Oq1MCIZlgWKWAML.jpg",
+      "original_description": "小猫趴下眼睛亮晶晶配文 “ 咪 ”",
+      "id": "sticker_003",
+      "format": "jpg",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "小猫趴下眼睛亮晶晶配文",
+        "“",
+        "咪",
+        "”"
+      ]
+    },
+    {
+      "source": "呆猫八条",
+      "name": "小猫托手配文 “ 思考 ”",
+      "url": "https://pic1.imgdb.cn/i/033tY81edBVFmIywVioo47.jpg",
+      "original_description": "小猫托手配文 “ 思考 ”",
+      "id": "sticker_004",
+      "format": "jpg",
+      "emotion": [
+        "思考"
+      ],
+      "scene": [
+        "思考或疑惑"
+      ],
+      "keywords": [
+        "小猫托手配文",
+        "“",
+        "思考",
+        "”"
+      ]
+    },
+    {
+      "source": "呆猫八条",
+      "name": "小猫歪头吐舌头配文 “ 略 —— ！ ”",
+      "url": "https://pic1.imgdb.cn/i/033tY81jPVZmiSteJ7xvqa.jpg",
+      "original_description": "小猫歪头吐舌头配文 “ 略 —— ！ ”",
+      "id": "sticker_005",
+      "format": "jpg",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "小猫歪头吐舌头配文",
+        "“",
+        "略",
+        "——",
+        "”"
+      ]
+    },
+    {
+      "source": "呆猫八条",
+      "name": "小猫被人后颈提起来，额头冒汗，眼睛瞪大",
+      "url": "https://pic1.imgdb.cn/i/033tY8244mEAmlsFPPsHkX.jpg",
+      "original_description": "小猫被人后颈提起来，额头冒汗，眼睛瞪大",
+      "id": "sticker_006",
+      "format": "jpg",
+      "emotion": [
+        "震惊"
+      ],
+      "scene": [
+        "震惊反应"
+      ],
+      "keywords": [
+        "小猫被人后颈提起来",
+        "额头冒汗",
+        "眼睛瞪大"
+      ]
+    },
+    {
+      "source": "呆猫八条",
+      "name": "小猫躺靠枕头，玩手机超开心的笑",
+      "url": "https://pic1.imgdb.cn/i/033tY81j7TVsjeu81TkP82.jpg",
+      "original_description": "小猫躺靠枕头，玩手机超开心的笑",
+      "id": "sticker_007",
+      "format": "jpg",
+      "emotion": [
+        "开心"
+      ],
+      "scene": [
+        "开心回应"
+      ],
+      "keywords": [
+        "小猫躺靠枕头",
+        "玩手机超开心的笑"
+      ]
+    },
+    {
+      "source": "呆猫八条",
+      "name": "小猫半眯眼不屑配文 “ 啧 ”",
+      "url": "https://pic1.imgdb.cn/i/033tY81rJDPdjWobxZ27xB.jpg",
+      "original_description": "小猫半眯眼不屑配文 “ 啧 ”",
+      "id": "sticker_008",
+      "format": "jpg",
+      "emotion": [
+        "无语"
+      ],
+      "scene": [
+        "吐槽或无语"
+      ],
+      "keywords": [
+        "小猫半眯眼不屑配文",
+        "“",
+        "啧",
+        "”"
+      ]
+    },
+    {
+      "source": "呆猫八条",
+      "name": "小猫满脸不爽配文 “ 💢 ”",
+      "url": "https://pic1.imgdb.cn/i/033tY82Ok3Qy7GCVlZipL6.jpg",
+      "original_description": "小猫满脸不爽配文 “ 💢 ”",
+      "id": "sticker_009",
+      "format": "jpg",
+      "emotion": [
+        "生气"
+      ],
+      "scene": [
+        "玩笑式生气"
+      ],
+      "keywords": [
+        "小猫满脸不爽配文",
+        "“",
+        "💢",
+        "”"
+      ]
+    },
+    {
+      "source": "呆猫八条",
+      "name": "小猫捧着手机疯狂大哭",
+      "url": "https://pic1.imgdb.cn/i/033tWRvnARtM7esVyWA9tG.jpg",
+      "original_description": "小猫捧着手机疯狂大哭",
+      "id": "sticker_010",
+      "format": "jpg",
+      "emotion": [
+        "难过"
+      ],
+      "scene": [
+        "委屈或难过"
+      ],
+      "keywords": [
+        "小猫捧着手机疯狂大哭"
+      ]
+    },
+    {
+      "source": "呆猫八条",
+      "name": "“ 一串省略号 ” 表示无语的小猫",
+      "url": "https://pic1.imgdb.cn/i/033tWUP0JHB7kbkSQi8thE.jpg",
+      "original_description": "“ 一串省略号 ” 表示无语的小猫",
+      "id": "sticker_011",
+      "format": "jpg",
+      "emotion": [
+        "无语"
+      ],
+      "scene": [
+        "吐槽或无语"
+      ],
+      "keywords": [
+        "“",
+        "一串省略号",
+        "”",
+        "表示无语的小猫"
+      ]
+    },
+    {
+      "source": "呆猫八条",
+      "name": "小猫额头带着红色怒气 💢 emoji",
+      "url": "https://pic1.imgdb.cn/i/033tWbBYI78vcPKl6VQL6J.jpg",
+      "original_description": "小猫额头带着红色怒气 💢 emoji",
+      "id": "sticker_012",
+      "format": "jpg",
+      "emotion": [
+        "生气"
+      ],
+      "scene": [
+        "玩笑式生气"
+      ],
+      "keywords": [
+        "小猫额头带着红色怒气",
+        "💢",
+        "emoji"
+      ]
+    },
+    {
+      "source": "呆猫八条",
+      "name": "小猫头上顶着大大的黄色问号",
+      "url": "https://pic1.imgdb.cn/i/033tWtZdSJyHRTIzCwharm.jpg",
+      "original_description": "小猫头上顶着大大的黄色问号",
+      "id": "sticker_013",
+      "format": "jpg",
+      "emotion": [
+        "思考"
+      ],
+      "scene": [
+        "思考或疑惑"
+      ],
+      "keywords": [
+        "小猫头上顶着大大的黄色问号"
+      ]
+    },
+    {
+      "source": "呆猫八条",
+      "name": "配文 “ 我恨！！！ ” 的小猫",
+      "url": "https://pic1.imgdb.cn/i/033tX0fFU2BrPLZ9H5yR4e.jpg",
+      "original_description": "配文 “ 我恨！！！ ” 的小猫",
+      "id": "sticker_014",
+      "format": "jpg",
+      "emotion": [
+        "生气"
+      ],
+      "scene": [
+        "玩笑式生气"
+      ],
+      "keywords": [
+        "配文",
+        "“",
+        "我恨",
+        "”",
+        "的小猫"
+      ]
+    },
+    {
+      "source": "呆猫八条",
+      "name": "小猫脸上冒虚汗",
+      "url": "https://pic1.imgdb.cn/i/033tX4o1jaC69ptwRWTm9c.jpg",
+      "original_description": "小猫脸上冒虚汗",
+      "id": "sticker_015",
+      "format": "jpg",
+      "emotion": [
+        "震惊"
+      ],
+      "scene": [
+        "震惊反应"
+      ],
+      "keywords": [
+        "小猫脸上冒虚汗"
+      ]
+    },
+    {
+      "source": "呆猫八条",
+      "name": "小猫周围飘爱心",
+      "url": "https://pic1.imgdb.cn/i/033tX6P7uPsETPypdTDlRt.jpg",
+      "original_description": "小猫周围飘爱心",
+      "id": "sticker_016",
+      "format": "jpg",
+      "emotion": [
+        "亲密"
+      ],
+      "scene": [
+        "亲近互动"
+      ],
+      "keywords": [
+        "小猫周围飘爱心"
+      ]
+    },
+    {
+      "source": "呆猫八条",
+      "name": "小猫缩在角落",
+      "url": "https://pic1.imgdb.cn/i/033tX7nBO08h1sLI4v6MOQ.jpg",
+      "original_description": "小猫缩在角落",
+      "id": "sticker_017",
+      "format": "jpg",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "小猫缩在角落"
+      ]
+    },
+    {
+      "source": "呆猫八条",
+      "name": "小猫跺脚耍小脾气",
+      "url": "https://pic1.imgdb.cn/i/033tXLDKaBIYFH0cgM4JOb.jpg",
+      "original_description": "小猫跺脚耍小脾气",
+      "id": "sticker_018",
+      "format": "jpg",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "小猫跺脚耍小脾气"
+      ]
+    },
+    {
+      "source": "呆猫八条",
+      "name": "小猫叼玫瑰满屏爱心",
+      "url": "https://pic1.imgdb.cn/i/033tXLDFPmzwIpwljDRydZ.jpg",
+      "original_description": "小猫叼玫瑰满屏爱心",
+      "id": "sticker_019",
+      "format": "jpg",
+      "emotion": [
+        "亲密"
+      ],
+      "scene": [
+        "亲近互动"
+      ],
+      "keywords": [
+        "小猫叼玫瑰满屏爱心"
+      ]
+    },
+    {
+      "source": "呆猫八条",
+      "name": "配文 “ 不对劲 ” 的小猫",
+      "url": "https://pic1.imgdb.cn/i/033tXLCyeY55ZZpLoGlnzR.jpg",
+      "original_description": "配文 “ 不对劲 ” 的小猫",
+      "id": "sticker_020",
+      "format": "jpg",
+      "emotion": [
+        "思考"
+      ],
+      "scene": [
+        "思考或疑惑"
+      ],
+      "keywords": [
+        "配文",
+        "“",
+        "不对劲",
+        "”",
+        "的小猫"
+      ]
+    },
+    {
+      "source": "呆猫八条",
+      "name": "配文 “ 暖好被窝 ， 好舒服 ” 的小猫",
+      "url": "https://pic1.imgdb.cn/i/033tXLDJbxwroKIbGHe6ks.jpg",
+      "original_description": "配文 “ 暖好被窝 ， 好舒服 ” 的小猫",
+      "id": "sticker_021",
+      "format": "jpg",
+      "emotion": [
+        "亲密"
+      ],
+      "scene": [
+        "亲近互动"
+      ],
+      "keywords": [
+        "配文",
+        "“",
+        "暖好被窝",
+        "好舒服",
+        "”",
+        "的小猫"
+      ]
+    },
+    {
+      "source": "呆猫八条",
+      "name": "小猫气呼呼咬着东西配文 “ 咬 ”",
+      "url": "https://pic1.imgdb.cn/i/033tXLD38WxCHFw91sIhSC.jpg",
+      "original_description": "小猫气呼呼咬着东西配文 “ 咬 ”",
+      "id": "sticker_022",
+      "format": "jpg",
+      "emotion": [
+        "生气"
+      ],
+      "scene": [
+        "玩笑式生气"
+      ],
+      "keywords": [
+        "小猫气呼呼咬着东西配文",
+        "“",
+        "咬",
+        "”"
+      ]
+    },
+    {
+      "source": "呆猫八条",
+      "name": "小猫委屈看手机聊天框配文 “ 手机坏掉了，都收不到你的消息",
+      "url": "https://pic1.imgdb.cn/i/033tXnF1M7BRMJsO6HvbAl.jpg",
+      "original_description": "小猫委屈看手机聊天框配文 “ 手机坏掉了，都收不到你的消息",
+      "id": "sticker_023",
+      "format": "jpg",
+      "emotion": [
+        "撒娇",
+        "等待"
+      ],
+      "scene": [
+        "撒娇求关注",
+        "等消息或回应"
+      ],
+      "keywords": [
+        "小猫委屈看手机聊天框配文",
+        "“",
+        "手机坏掉了",
+        "都收不到你的消息"
+      ]
+    },
+    {
+      "source": "呆猫八条",
+      "name": "小猫举手配文 “ 收到 ”",
+      "url": "https://pic1.imgdb.cn/i/033tXnEtMKNgAriQ5aEv5O.jpg",
+      "original_description": "小猫举手配文 “ 收到 ”",
+      "id": "sticker_024",
+      "format": "jpg",
+      "emotion": [
+        "等待"
+      ],
+      "scene": [
+        "等消息或回应"
+      ],
+      "keywords": [
+        "小猫举手配文",
+        "“",
+        "收到",
+        "”"
+      ]
+    },
+    {
+      "source": "呆猫八条",
+      "name": "小猫一拳被打成猫饼",
+      "url": "https://pic1.imgdb.cn/i/033tXwvBkgRgL37YYipqVe.jpg",
+      "original_description": "小猫一拳被打成猫饼",
+      "id": "sticker_025",
+      "format": "jpg",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "小猫一拳被打成猫饼"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小猫戴圆框眼镜，头顶加载标识思索问题",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005348_origin_mmexport1784611626132.png",
+      "original_description": "小猫戴圆框眼镜，头顶加载标识思索问题",
+      "id": "sticker_026",
+      "format": "png",
+      "emotion": [
+        "思考"
+      ],
+      "scene": [
+        "思考或疑惑"
+      ],
+      "keywords": [
+        "小猫戴圆框眼镜",
+        "头顶加载标识思索问题"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小猫落泪浸湿地面，委屈地放声大哭",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005350_origin_mmexport1784611626517.png",
+      "original_description": "小猫落泪浸湿地面，委屈地放声大哭",
+      "id": "sticker_027",
+      "format": "png",
+      "emotion": [
+        "撒娇",
+        "难过"
+      ],
+      "scene": [
+        "撒娇求关注",
+        "委屈或难过"
+      ],
+      "keywords": [
+        "小猫落泪浸湿地面",
+        "委屈地放声大哭"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小猫双手合十，眼角带泪，神情祈求",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005351_origin_mmexport1784611626710.png",
+      "original_description": "小猫双手合十，眼角带泪，神情祈求",
+      "id": "sticker_028",
+      "format": "png",
+      "emotion": [
+        "撒娇"
+      ],
+      "scene": [
+        "撒娇求关注"
+      ],
+      "keywords": [
+        "小猫双手合十",
+        "眼角带泪",
+        "神情祈求"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小猫拿着信封，乖巧示意消息已收到",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005342_origin_mmexport1784611624409.png",
+      "original_description": "小猫拿着信封，乖巧示意消息已收到",
+      "id": "sticker_029",
+      "format": "png",
+      "emotion": [
+        "等待"
+      ],
+      "scene": [
+        "等消息或回应"
+      ],
+      "keywords": [
+        "小猫拿着信封",
+        "乖巧示意消息已收到"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小狗小猫相拥依偎撒娇，亲密靠拢。配文：贴贴！",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005341_origin_mmexport1784611624165.png",
+      "original_description": "小狗小猫相拥依偎撒娇，亲密靠拢。配文：贴贴！",
+      "id": "sticker_030",
+      "format": "png",
+      "emotion": [
+        "亲密",
+        "撒娇"
+      ],
+      "scene": [
+        "亲近互动",
+        "撒娇求关注"
+      ],
+      "keywords": [
+        "小狗小猫相拥依偎撒娇",
+        "亲密靠拢",
+        "配文：贴贴"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小狗举闪耀钻戒，神态郑重浪漫求婚示爱",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005340_origin_mmexport1784611624026.png",
+      "original_description": "小狗举闪耀钻戒，神态郑重浪漫求婚示爱",
+      "id": "sticker_031",
+      "format": "png",
+      "emotion": [
+        "亲密"
+      ],
+      "scene": [
+        "亲近互动"
+      ],
+      "keywords": [
+        "小狗举闪耀钻戒",
+        "神态郑重浪漫求婚示爱"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小猫周围围着爱心，神情委屈祈求",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005347_origin_mmexport1784611625901.png",
+      "original_description": "小猫周围围着爱心，神情委屈祈求",
+      "id": "sticker_032",
+      "format": "png",
+      "emotion": [
+        "亲密",
+        "撒娇"
+      ],
+      "scene": [
+        "亲近互动",
+        "撒娇求关注"
+      ],
+      "keywords": [
+        "小猫周围围着爱心",
+        "神情委屈祈求"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小猫头顶着火，神情不爽",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005345_origin_mmexport1784611625273.png",
+      "original_description": "小猫头顶着火，神情不爽",
+      "id": "sticker_033",
+      "format": "png",
+      "emotion": [
+        "生气"
+      ],
+      "scene": [
+        "玩笑式生气"
+      ],
+      "keywords": [
+        "小猫头顶着火",
+        "神情不爽"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小猫挥拳，头顶冒火焰",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005346_origin_mmexport1784611625567.png",
+      "original_description": "小猫挥拳，头顶冒火焰",
+      "id": "sticker_034",
+      "format": "png",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "小猫挥拳",
+        "头顶冒火焰"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小猫抱着一颗大爱心，神情愉悦",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005344_origin_mmexport1784611625020.png",
+      "original_description": "小猫抱着一颗大爱心，神情愉悦",
+      "id": "sticker_035",
+      "format": "png",
+      "emotion": [
+        "亲密"
+      ],
+      "scene": [
+        "亲近互动"
+      ],
+      "keywords": [
+        "小猫抱着一颗大爱心",
+        "神情愉悦"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小狗被爱意包围，感动落泪",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005343_origin_mmexport1784611624770.png",
+      "original_description": "小狗被爱意包围，感动落泪",
+      "id": "sticker_036",
+      "format": "png",
+      "emotion": [
+        "难过"
+      ],
+      "scene": [
+        "委屈或难过"
+      ],
+      "keywords": [
+        "小狗被爱意包围",
+        "感动落泪"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "戴睡帽的软萌小猫困倦犯困，准备入睡",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005335_origin_mmexport1784611622974.png",
+      "original_description": "戴睡帽的软萌小猫困倦犯困，准备入睡",
+      "id": "sticker_037",
+      "format": "png",
+      "emotion": [
+        "困倦"
+      ],
+      "scene": [
+        "睡前或犯困"
+      ],
+      "keywords": [
+        "戴睡帽的软萌小猫困倦犯困",
+        "准备入睡"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "戴墨镜的小白狗耍酷，周身点缀星光",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005334_origin_mmexport1784611622741.png",
+      "original_description": "戴墨镜的小白狗耍酷，周身点缀星光",
+      "id": "sticker_038",
+      "format": "png",
+      "emotion": [
+        "开心",
+        "得意"
+      ],
+      "scene": [
+        "开心回应",
+        "斗嘴或挑衅"
+      ],
+      "keywords": [
+        "戴墨镜的小白狗耍酷",
+        "周身点缀星光"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小白狗举禁止标识，神情不满表示否决",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005339_origin_mmexport1784611623864.png",
+      "original_description": "小白狗举禁止标识，神情不满表示否决",
+      "id": "sticker_039",
+      "format": "png",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "小白狗举禁止标识",
+        "神情不满表示否决"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小猫落寞退场，配字遗憾离场",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005338_origin_mmexport1784611623708.png",
+      "original_description": "小猫落寞退场，配字遗憾离场",
+      "id": "sticker_040",
+      "format": "png",
+      "emotion": [
+        "难过"
+      ],
+      "scene": [
+        "委屈或难过"
+      ],
+      "keywords": [
+        "小猫落寞退场",
+        "配字遗憾离场"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "猫咪双手比爱心俏皮眨眼，周围环绕爱心",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005337_origin_mmexport1784611623486.png",
+      "original_description": "猫咪双手比爱心俏皮眨眼，周围环绕爱心",
+      "id": "sticker_041",
+      "format": "png",
+      "emotion": [
+        "亲密"
+      ],
+      "scene": [
+        "亲近互动"
+      ],
+      "keywords": [
+        "猫咪双手比爱心俏皮眨眼",
+        "周围环绕爱心"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小猫眼神亮晶晶，想说又不好意思说",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005379_origin_a5cae49601a8ecfa.png",
+      "original_description": "小猫眼神亮晶晶，想说又不好意思说",
+      "id": "sticker_042",
+      "format": "png",
+      "emotion": [
+        "害羞"
+      ],
+      "scene": [
+        "害羞或心虚"
+      ],
+      "keywords": [
+        "小猫眼神亮晶晶",
+        "想说又不好意思说"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小猫双手合十，满眼星光满是期待",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005336_origin_mmexport1784611623207.png",
+      "original_description": "小猫双手合十，满眼星光满是期待",
+      "id": "sticker_043",
+      "format": "png",
+      "emotion": [
+        "开心"
+      ],
+      "scene": [
+        "开心回应"
+      ],
+      "keywords": [
+        "小猫双手合十",
+        "满眼星光满是期待"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小猫拿着绿色对勾标牌",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005349_origin_mmexport1784611626344.png",
+      "original_description": "小猫拿着绿色对勾标牌",
+      "id": "sticker_044",
+      "format": "png",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "小猫拿着绿色对勾标牌"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小猫高举双手点赞，四周点缀星光，表现开心欢呼",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005381_origin_mmexport1784626203895.png",
+      "original_description": "小猫高举双手点赞，四周点缀星光，表现开心欢呼",
+      "id": "sticker_045",
+      "format": "png",
+      "emotion": [
+        "开心"
+      ],
+      "scene": [
+        "开心回应"
+      ],
+      "keywords": [
+        "小猫高举双手点赞",
+        "四周点缀星光",
+        "表现开心欢呼"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小狗独自抽烟，神情落寞倦怠",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005383_origin_mmexport1784626560473.png",
+      "original_description": "小狗独自抽烟，神情落寞倦怠",
+      "id": "sticker_046",
+      "format": "png",
+      "emotion": [
+        "难过"
+      ],
+      "scene": [
+        "委屈或难过"
+      ],
+      "keywords": [
+        "小狗独自抽烟",
+        "神情落寞倦怠"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小狗紧闭双眼张嘴大喊，情绪激动宣泄",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005382_origin_mmexport1784626559987.png",
+      "original_description": "小狗紧闭双眼张嘴大喊，情绪激动宣泄",
+      "id": "sticker_047",
+      "format": "png",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "小狗紧闭双眼张嘴大喊",
+        "情绪激动宣泄"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "戴眼镜的小狗皱眉扶眼镜，神情严肃认真思索",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005384_origin_mmexport1784626560987.png",
+      "original_description": "戴眼镜的小狗皱眉扶眼镜，神情严肃认真思索",
+      "id": "sticker_048",
+      "format": "png",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "戴眼镜的小狗皱眉扶眼镜",
+        "神情严肃认真思索"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小猫拿着手机落泪，旁边配有破碎的心",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005385_origin_mmexport1784626561526.png",
+      "original_description": "小猫拿着手机落泪，旁边配有破碎的心",
+      "id": "sticker_049",
+      "format": "png",
+      "emotion": [
+        "难过"
+      ],
+      "scene": [
+        "委屈或难过"
+      ],
+      "keywords": [
+        "小猫拿着手机落泪",
+        "旁边配有破碎的心"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小猫小狗紧挨依偎，上方飘着爱心，流露甜蜜亲昵",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005386_origin_mmexport1784626562108.png",
+      "original_description": "小猫小狗紧挨依偎，上方飘着爱心，流露甜蜜亲昵",
+      "id": "sticker_050",
+      "format": "png",
+      "emotion": [
+        "亲密"
+      ],
+      "scene": [
+        "亲近互动"
+      ],
+      "keywords": [
+        "小猫小狗紧挨依偎",
+        "上方飘着爱心",
+        "流露甜蜜亲昵"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小猫揪住小狗脖颈，气呼呼冒出气恼小符号",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005394_origin_mmexport1784626571220.png",
+      "original_description": "小猫揪住小狗脖颈，气呼呼冒出气恼小符号",
+      "id": "sticker_051",
+      "format": "png",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "小猫揪住小狗脖颈",
+        "气呼呼冒出气恼小符号"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小猫双手对手指，脸颊泛红，腼腆害羞",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005392_origin_mmexport1784626569050.png",
+      "original_description": "小猫双手对手指，脸颊泛红，腼腆害羞",
+      "id": "sticker_052",
+      "format": "png",
+      "emotion": [
+        "害羞"
+      ],
+      "scene": [
+        "害羞或心虚"
+      ],
+      "keywords": [
+        "小猫双手对手指",
+        "脸颊泛红",
+        "腼腆害羞"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小狗把眼镜推至头顶，手托下巴沉思，附带省略号表示斟酌",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005393_origin_mmexport1784626569854.png",
+      "original_description": "小狗把眼镜推至头顶，手托下巴沉思，附带省略号表示斟酌",
+      "id": "sticker_053",
+      "format": "png",
+      "emotion": [
+        "无语",
+        "思考"
+      ],
+      "scene": [
+        "吐槽或无语",
+        "思考或疑惑"
+      ],
+      "keywords": [
+        "小狗把眼镜推至头顶",
+        "手托下巴沉思",
+        "附带省略号表示斟酌"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "11. 小猫单手擦眼泪，双眼淌泪，委屈地小声抽泣",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005391_origin_mmexport1784626567817.png",
+      "original_description": "11. 小猫单手擦眼泪，双眼淌泪，委屈地小声抽泣",
+      "id": "sticker_054",
+      "format": "png",
+      "emotion": [
+        "撒娇"
+      ],
+      "scene": [
+        "撒娇求关注"
+      ],
+      "keywords": [
+        "11.",
+        "小猫单手擦眼泪",
+        "双眼淌泪",
+        "委屈地小声抽泣"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小猫附带对话气泡打招呼问好，配文：Hi",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005390_origin_mmexport1784626566804.png",
+      "original_description": "小猫附带对话气泡打招呼问好，配文：Hi",
+      "id": "sticker_055",
+      "format": "png",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "小猫附带对话气泡打招呼问好",
+        "配文：Hi"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小猫手持菜刀，模样乖巧，面带带威慑",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005389_origin_mmexport1784626565663.png",
+      "original_description": "小猫手持菜刀，模样乖巧，面带带威慑",
+      "id": "sticker_056",
+      "format": "png",
+      "emotion": [
+        "生气"
+      ],
+      "scene": [
+        "玩笑式生气"
+      ],
+      "keywords": [
+        "小猫手持菜刀",
+        "模样乖巧",
+        "面带带威慑"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小猫脸颊泛红，伸手指向一旁，处于生气不满的状态",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005388_origin_mmexport1784626564974.png",
+      "original_description": "小猫脸颊泛红，伸手指向一旁，处于生气不满的状态",
+      "id": "sticker_057",
+      "format": "png",
+      "emotion": [
+        "生气"
+      ],
+      "scene": [
+        "玩笑式生气"
+      ],
+      "keywords": [
+        "小猫脸颊泛红",
+        "伸手指向一旁",
+        "处于生气不满的状态"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小狗闭眼浅笑，两侧有星光，神态得意惬意",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005387_origin_mmexport1784626563645.png",
+      "original_description": "小狗闭眼浅笑，两侧有星光，神态得意惬意",
+      "id": "sticker_058",
+      "format": "png",
+      "emotion": [
+        "开心",
+        "得意"
+      ],
+      "scene": [
+        "开心回应",
+        "斗嘴或挑衅"
+      ],
+      "keywords": [
+        "小狗闭眼浅笑",
+        "两侧有星光",
+        "神态得意惬意"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小猫端着杯子，身旁有问号，流露疑惑不解",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005396_origin_mmexport1784626573539.png",
+      "original_description": "小猫端着杯子，身旁有问号，流露疑惑不解",
+      "id": "sticker_059",
+      "format": "png",
+      "emotion": [
+        "思考"
+      ],
+      "scene": [
+        "思考或疑惑"
+      ],
+      "keywords": [
+        "小猫端着杯子",
+        "身旁有问号",
+        "流露疑惑不解"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小猫弯眼笑，开口向对方道谢。配文：谢谢！",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005401_origin_mmexport1784626576502.png",
+      "original_description": "小猫弯眼笑，开口向对方道谢。配文：谢谢！",
+      "id": "sticker_060",
+      "format": "png",
+      "emotion": [
+        "开心"
+      ],
+      "scene": [
+        "开心回应"
+      ],
+      "keywords": [
+        "小猫弯眼笑",
+        "开口向对方道谢",
+        "配文：谢谢"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小狗大颗泪珠滑落，神情崩溃大哭",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005399_origin_mmexport1784626575458.png",
+      "original_description": "小狗大颗泪珠滑落，神情崩溃大哭",
+      "id": "sticker_061",
+      "format": "png",
+      "emotion": [
+        "难过"
+      ],
+      "scene": [
+        "委屈或难过"
+      ],
+      "keywords": [
+        "小狗大颗泪珠滑落",
+        "神情崩溃大哭"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小狗佩戴领结，手捧玫瑰，浪漫送出花束",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005400_origin_mmexport1784626575975.png",
+      "original_description": "小狗佩戴领结，手捧玫瑰，浪漫送出花束",
+      "id": "sticker_062",
+      "format": "png",
+      "emotion": [
+        "亲密"
+      ],
+      "scene": [
+        "亲近互动"
+      ],
+      "keywords": [
+        "小狗佩戴领结",
+        "手捧玫瑰",
+        "浪漫送出花束"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小猫额头有怒气符号，抬手，正在恼火发火",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005397_origin_mmexport1784626574167.png",
+      "original_description": "小猫额头有怒气符号，抬手，正在恼火发火",
+      "id": "sticker_063",
+      "format": "png",
+      "emotion": [
+        "生气"
+      ],
+      "scene": [
+        "玩笑式生气"
+      ],
+      "keywords": [
+        "小猫额头有怒气符号",
+        "抬手",
+        "正在恼火发火"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小狗比出手势，周围有星光，满是自信得意",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005398_origin_mmexport1784626574804.png",
+      "original_description": "小狗比出手势，周围有星光，满是自信得意",
+      "id": "sticker_064",
+      "format": "png",
+      "emotion": [
+        "开心",
+        "得意"
+      ],
+      "scene": [
+        "开心回应",
+        "斗嘴或挑衅"
+      ],
+      "keywords": [
+        "小狗比出手势",
+        "周围有星光",
+        "满是自信得意"
+      ]
+    },
+    {
+      "source": "豆米乌卡",
+      "name": "小猫趴在手机上，等候对方回复消息， 配文：等…",
+      "url": "https://gitee.com/zqn1013/gitee/raw/master/img/1000005395_origin_mmexport1784626572001.png",
+      "original_description": "小猫趴在手机上，等候对方回复消息， 配文：等…",
+      "id": "sticker_065",
+      "format": "png",
+      "emotion": [
+        "等待"
+      ],
+      "scene": [
+        "等消息或回应"
+      ],
+      "keywords": [
+        "小猫趴在手机上",
+        "等候对方回复消息",
+        "配文：等…"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "想你·老婆迷",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/03.JPEG",
+      "original_description": "想你·老婆迷",
+      "original_category": "想你·心动",
+      "id": "sticker_066",
+      "format": "jpg",
+      "emotion": [
+        "亲密"
+      ],
+      "scene": [
+        "亲近互动"
+      ],
+      "keywords": [
+        "想你",
+        "老婆迷",
+        "心动"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "表白·送你一朵玫瑰",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/08.JPEG",
+      "original_description": "表白·送你一朵玫瑰",
+      "original_category": "想你·心动",
+      "id": "sticker_067",
+      "format": "jpg",
+      "emotion": [
+        "亲密"
+      ],
+      "scene": [
+        "亲近互动"
+      ],
+      "keywords": [
+        "表白",
+        "送你一朵玫瑰",
+        "想你",
+        "心动"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "想你·仰泳冒爱心",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/01.gif",
+      "original_description": "想你·仰泳冒爱心",
+      "original_category": "想你·心动",
+      "id": "sticker_068",
+      "format": "gif",
+      "emotion": [
+        "亲密"
+      ],
+      "scene": [
+        "亲近互动"
+      ],
+      "keywords": [
+        "想你",
+        "仰泳冒爱心",
+        "心动"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "想你·抱着爱心蹭",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/13.gif",
+      "original_description": "想你·抱着爱心蹭",
+      "original_category": "想你·心动",
+      "id": "sticker_069",
+      "format": "gif",
+      "emotion": [
+        "亲密"
+      ],
+      "scene": [
+        "亲近互动"
+      ],
+      "keywords": [
+        "想你",
+        "抱着爱心蹭",
+        "心动"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "想你·只敢发在吗",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/31.JPEG",
+      "original_description": "想你·只敢发在吗",
+      "original_category": "想你·心动",
+      "id": "sticker_070",
+      "format": "jpg",
+      "emotion": [
+        "亲密"
+      ],
+      "scene": [
+        "亲近互动"
+      ],
+      "keywords": [
+        "想你",
+        "只敢发在吗",
+        "心动"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "奔向你·飞奔过来",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/05.gif",
+      "original_description": "奔向你·飞奔过来",
+      "original_category": "奔向你·开心",
+      "id": "sticker_071",
+      "format": "gif",
+      "emotion": [
+        "开心"
+      ],
+      "scene": [
+        "开心回应"
+      ],
+      "keywords": [
+        "奔向你",
+        "飞奔过来",
+        "开心"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "得意·欠欠地跳舞",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/06.gif",
+      "original_description": "得意·欠欠地跳舞",
+      "original_category": "奔向你·开心",
+      "id": "sticker_072",
+      "format": "gif",
+      "emotion": [
+        "开心",
+        "得意"
+      ],
+      "scene": [
+        "开心回应",
+        "斗嘴或挑衅"
+      ],
+      "keywords": [
+        "得意",
+        "欠欠地跳舞",
+        "奔向你",
+        "开心"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "开心·坐火箭飞过来",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/07.gif",
+      "original_description": "开心·坐火箭飞过来",
+      "original_category": "奔向你·开心",
+      "id": "sticker_073",
+      "format": "gif",
+      "emotion": [
+        "开心"
+      ],
+      "scene": [
+        "开心回应"
+      ],
+      "keywords": [
+        "开心",
+        "坐火箭飞过来",
+        "奔向你"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "开心·摇摇摆摆",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/25.JPEG",
+      "original_description": "开心·摇摇摆摆",
+      "original_category": "奔向你·开心",
+      "id": "sticker_074",
+      "format": "jpg",
+      "emotion": [
+        "开心"
+      ],
+      "scene": [
+        "开心回应"
+      ],
+      "keywords": [
+        "开心",
+        "摇摇摆摆",
+        "奔向你"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "装傻·我就是小狗",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/04.JPEG",
+      "original_description": "装傻·我就是小狗",
+      "original_category": "撒娇",
+      "id": "sticker_075",
+      "format": "jpg",
+      "emotion": [
+        "撒娇"
+      ],
+      "scene": [
+        "撒娇求关注"
+      ],
+      "keywords": [
+        "装傻",
+        "我就是小狗",
+        "撒娇"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "撒娇·要抱抱",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/09.JPEG",
+      "original_description": "撒娇·要抱抱",
+      "original_category": "撒娇",
+      "id": "sticker_076",
+      "format": "jpg",
+      "emotion": [
+        "亲密",
+        "撒娇"
+      ],
+      "scene": [
+        "亲近互动",
+        "撒娇求关注"
+      ],
+      "keywords": [
+        "撒娇",
+        "要抱抱"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "开心·亮爪爪",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/12.JPEG",
+      "original_description": "开心·亮爪爪",
+      "original_category": "撒娇",
+      "id": "sticker_077",
+      "format": "jpg",
+      "emotion": [
+        "开心",
+        "撒娇"
+      ],
+      "scene": [
+        "开心回应",
+        "撒娇求关注"
+      ],
+      "keywords": [
+        "开心",
+        "亮爪爪",
+        "撒娇"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "期待·托着脸看你",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/08.gif",
+      "original_description": "期待·托着脸看你",
+      "original_category": "撒娇",
+      "id": "sticker_078",
+      "format": "gif",
+      "emotion": [
+        "撒娇"
+      ],
+      "scene": [
+        "撒娇求关注"
+      ],
+      "keywords": [
+        "期待",
+        "托着脸看你",
+        "撒娇"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "撒娇·抱腿蹭腿",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/09.gif",
+      "original_description": "撒娇·抱腿蹭腿",
+      "original_category": "撒娇",
+      "id": "sticker_079",
+      "format": "gif",
+      "emotion": [
+        "亲密",
+        "撒娇"
+      ],
+      "scene": [
+        "亲近互动",
+        "撒娇求关注"
+      ],
+      "keywords": [
+        "撒娇",
+        "抱腿蹭腿"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "撒娇·挂你腿上不放",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/10.gif",
+      "original_description": "撒娇·挂你腿上不放",
+      "original_category": "撒娇",
+      "id": "sticker_080",
+      "format": "gif",
+      "emotion": [
+        "撒娇"
+      ],
+      "scene": [
+        "撒娇求关注"
+      ],
+      "keywords": [
+        "撒娇",
+        "挂你腿上不放"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "撒娇·抬头冲你傻笑",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/11.gif",
+      "original_description": "撒娇·抬头冲你傻笑",
+      "original_category": "撒娇",
+      "id": "sticker_081",
+      "format": "gif",
+      "emotion": [
+        "开心",
+        "撒娇"
+      ],
+      "scene": [
+        "开心回应",
+        "撒娇求关注"
+      ],
+      "keywords": [
+        "撒娇",
+        "抬头冲你傻笑"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "撒娇·缓解气氛",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/17.JPEG",
+      "original_description": "撒娇·缓解气氛",
+      "original_category": "撒娇",
+      "id": "sticker_082",
+      "format": "jpg",
+      "emotion": [
+        "撒娇"
+      ],
+      "scene": [
+        "撒娇求关注"
+      ],
+      "keywords": [
+        "撒娇",
+        "缓解气氛"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "撒娇·蹭蹭",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/20.JPEG",
+      "original_description": "撒娇·蹭蹭",
+      "original_category": "撒娇",
+      "id": "sticker_083",
+      "format": "jpg",
+      "emotion": [
+        "亲密",
+        "撒娇"
+      ],
+      "scene": [
+        "亲近互动",
+        "撒娇求关注"
+      ],
+      "keywords": [
+        "撒娇",
+        "蹭蹭"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "撒娇·被窝共享邀请",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/30.JPEG",
+      "original_description": "撒娇·被窝共享邀请",
+      "original_category": "撒娇",
+      "id": "sticker_084",
+      "format": "jpg",
+      "emotion": [
+        "亲密",
+        "撒娇"
+      ],
+      "scene": [
+        "亲近互动",
+        "撒娇求关注"
+      ],
+      "keywords": [
+        "撒娇",
+        "被窝共享邀请"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "被亲了·额头有唇印",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/01.JPEG",
+      "original_description": "被亲了·额头有唇印",
+      "original_category": "亲亲·贴贴",
+      "id": "sticker_085",
+      "format": "jpg",
+      "emotion": [
+        "亲密"
+      ],
+      "scene": [
+        "亲近互动"
+      ],
+      "keywords": [
+        "被亲了",
+        "额头有唇印",
+        "亲亲",
+        "贴贴"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "撒娇·亲亲这里",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/02.JPEG",
+      "original_description": "撒娇·亲亲这里",
+      "original_category": "亲亲·贴贴",
+      "id": "sticker_086",
+      "format": "jpg",
+      "emotion": [
+        "亲密",
+        "撒娇"
+      ],
+      "scene": [
+        "亲近互动",
+        "撒娇求关注"
+      ],
+      "keywords": [
+        "撒娇",
+        "亲亲这里",
+        "亲亲",
+        "贴贴"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "凑近·贴到你面前",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/11.JPEG",
+      "original_description": "凑近·贴到你面前",
+      "original_category": "亲亲·贴贴",
+      "id": "sticker_087",
+      "format": "jpg",
+      "emotion": [
+        "亲密"
+      ],
+      "scene": [
+        "亲近互动"
+      ],
+      "keywords": [
+        "凑近",
+        "贴到你面前",
+        "亲亲",
+        "贴贴"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "照顾你·认真捶背",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/14.gif",
+      "original_description": "照顾你·认真捶背",
+      "original_category": "亲亲·贴贴",
+      "id": "sticker_088",
+      "format": "gif",
+      "emotion": [
+        "亲密",
+        "照顾"
+      ],
+      "scene": [
+        "亲近互动",
+        "安慰或照顾"
+      ],
+      "keywords": [
+        "照顾你",
+        "认真捶背",
+        "亲亲",
+        "贴贴"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "亲亲·贴贴",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/33.JPEG",
+      "original_description": "亲亲·贴贴",
+      "original_category": "亲亲·贴贴",
+      "id": "sticker_089",
+      "format": "jpg",
+      "emotion": [
+        "亲密"
+      ],
+      "scene": [
+        "亲近互动"
+      ],
+      "keywords": [
+        "亲亲",
+        "贴贴"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "亲亲·被亲到脸红",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/38.JPEG",
+      "original_description": "亲亲·被亲到脸红",
+      "original_category": "亲亲·贴贴",
+      "id": "sticker_090",
+      "format": "jpg",
+      "emotion": [
+        "亲密",
+        "害羞"
+      ],
+      "scene": [
+        "亲近互动",
+        "害羞或心虚"
+      ],
+      "keywords": [
+        "亲亲",
+        "被亲到脸红",
+        "贴贴"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "委屈·苹果头套",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/16.gif",
+      "original_description": "委屈·苹果头套",
+      "original_category": "委屈·认错",
+      "id": "sticker_091",
+      "format": "gif",
+      "emotion": [
+        "撒娇"
+      ],
+      "scene": [
+        "撒娇求关注"
+      ],
+      "keywords": [
+        "委屈",
+        "苹果头套",
+        "认错"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "委屈·扁扁地走开",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/15.JPEG",
+      "original_description": "委屈·扁扁地走开",
+      "original_category": "委屈·认错",
+      "id": "sticker_092",
+      "format": "jpg",
+      "emotion": [
+        "撒娇"
+      ],
+      "scene": [
+        "撒娇求关注"
+      ],
+      "keywords": [
+        "委屈",
+        "扁扁地走开",
+        "认错"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "委屈·等你来哄",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/23.JPEG",
+      "original_description": "委屈·等你来哄",
+      "original_category": "委屈·认错",
+      "id": "sticker_093",
+      "format": "jpg",
+      "emotion": [
+        "撒娇",
+        "等待"
+      ],
+      "scene": [
+        "撒娇求关注",
+        "等消息或回应"
+      ],
+      "keywords": [
+        "委屈",
+        "等你来哄",
+        "认错"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "认错·知错了",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/36.JPEG",
+      "original_description": "认错·知错了",
+      "original_category": "委屈·认错",
+      "id": "sticker_094",
+      "format": "jpg",
+      "emotion": [
+        "撒娇"
+      ],
+      "scene": [
+        "撒娇求关注"
+      ],
+      "keywords": [
+        "认错",
+        "知错了",
+        "委屈"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "期待·眼睛冒星星",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/19.gif",
+      "original_description": "期待·眼睛冒星星",
+      "original_category": "等你·期待",
+      "id": "sticker_095",
+      "format": "gif",
+      "emotion": [
+        "等待"
+      ],
+      "scene": [
+        "等消息或回应"
+      ],
+      "keywords": [
+        "期待",
+        "眼睛冒星星",
+        "等你"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "等你·等回复",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/28.JPEG",
+      "original_description": "等你·等回复",
+      "original_category": "等你·期待",
+      "id": "sticker_096",
+      "format": "jpg",
+      "emotion": [
+        "等待"
+      ],
+      "scene": [
+        "等消息或回应"
+      ],
+      "keywords": [
+        "等你",
+        "等回复",
+        "期待"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "睡吧·躺好咯",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/40.JPEG",
+      "original_description": "睡吧·躺好咯",
+      "original_category": "困了·睡吧",
+      "id": "sticker_097",
+      "format": "jpg",
+      "emotion": [
+        "困倦"
+      ],
+      "scene": [
+        "睡前或犯困"
+      ],
+      "keywords": [
+        "睡吧",
+        "躺好咯",
+        "困了"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "撒娇·一起睡不",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/41.JPEG",
+      "original_description": "撒娇·一起睡不",
+      "original_category": "困了·睡吧",
+      "id": "sticker_098",
+      "format": "jpg",
+      "emotion": [
+        "撒娇",
+        "困倦"
+      ],
+      "scene": [
+        "撒娇求关注",
+        "睡前或犯困"
+      ],
+      "keywords": [
+        "撒娇",
+        "一起睡不",
+        "困了",
+        "睡吧"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "得意·叉腰",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/06.JPEG",
+      "original_description": "得意·叉腰",
+      "original_category": "坏笑·搞怪·挑衅",
+      "id": "sticker_099",
+      "format": "jpg",
+      "emotion": [
+        "开心",
+        "得意"
+      ],
+      "scene": [
+        "开心回应",
+        "斗嘴或挑衅"
+      ],
+      "keywords": [
+        "得意",
+        "叉腰",
+        "坏笑",
+        "搞怪",
+        "挑衅"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "放狠话·你给我等着",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/10.JPEG",
+      "original_description": "放狠话·你给我等着",
+      "original_category": "坏笑·搞怪·挑衅",
+      "id": "sticker_100",
+      "format": "jpg",
+      "emotion": [
+        "开心",
+        "得意",
+        "等待"
+      ],
+      "scene": [
+        "开心回应",
+        "斗嘴或挑衅",
+        "等消息或回应"
+      ],
+      "keywords": [
+        "放狠话",
+        "你给我等着",
+        "坏笑",
+        "搞怪",
+        "挑衅"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "坏笑·纯挑衅",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/13.JPEG",
+      "original_description": "坏笑·纯挑衅",
+      "original_category": "坏笑·搞怪·挑衅",
+      "id": "sticker_101",
+      "format": "jpg",
+      "emotion": [
+        "开心",
+        "得意"
+      ],
+      "scene": [
+        "开心回应",
+        "斗嘴或挑衅"
+      ],
+      "keywords": [
+        "坏笑",
+        "纯挑衅",
+        "搞怪",
+        "挑衅"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "震惊·闪出影子",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/25.gif",
+      "original_description": "震惊·闪出影子",
+      "original_category": "坏笑·搞怪·挑衅",
+      "id": "sticker_102",
+      "format": "gif",
+      "emotion": [
+        "开心",
+        "得意",
+        "震惊"
+      ],
+      "scene": [
+        "开心回应",
+        "斗嘴或挑衅",
+        "震惊反应"
+      ],
+      "keywords": [
+        "震惊",
+        "闪出影子",
+        "坏笑",
+        "搞怪",
+        "挑衅"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "偷听·假装玩竖耳朵",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/27.gif",
+      "original_description": "偷听·假装玩竖耳朵",
+      "original_category": "坏笑·搞怪·挑衅",
+      "id": "sticker_103",
+      "format": "gif",
+      "emotion": [
+        "开心",
+        "得意"
+      ],
+      "scene": [
+        "开心回应",
+        "斗嘴或挑衅"
+      ],
+      "keywords": [
+        "偷听",
+        "假装玩竖耳朵",
+        "坏笑",
+        "搞怪",
+        "挑衅"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "中二·征服人类开关",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/22.JPEG",
+      "original_description": "中二·征服人类开关",
+      "original_category": "坏笑·搞怪·挑衅",
+      "id": "sticker_104",
+      "format": "jpg",
+      "emotion": [
+        "开心",
+        "得意"
+      ],
+      "scene": [
+        "开心回应",
+        "斗嘴或挑衅"
+      ],
+      "keywords": [
+        "中二",
+        "征服人类开关",
+        "坏笑",
+        "搞怪",
+        "挑衅"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "坏笑·准备更坏",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/21.JPEG",
+      "original_description": "坏笑·准备更坏",
+      "original_category": "坏笑·搞怪·挑衅",
+      "id": "sticker_105",
+      "format": "jpg",
+      "emotion": [
+        "开心",
+        "得意"
+      ],
+      "scene": [
+        "开心回应",
+        "斗嘴或挑衅"
+      ],
+      "keywords": [
+        "坏笑",
+        "准备更坏",
+        "搞怪",
+        "挑衅"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "得意·小狗得志",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/26.JPEG",
+      "original_description": "得意·小狗得志",
+      "original_category": "坏笑·搞怪·挑衅",
+      "id": "sticker_106",
+      "format": "jpg",
+      "emotion": [
+        "开心",
+        "得意"
+      ],
+      "scene": [
+        "开心回应",
+        "斗嘴或挑衅"
+      ],
+      "keywords": [
+        "得意",
+        "小狗得志",
+        "坏笑",
+        "搞怪",
+        "挑衅"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "臭美·太有魅力了",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/29.JPEG",
+      "original_description": "臭美·太有魅力了",
+      "original_category": "坏笑·搞怪·挑衅",
+      "id": "sticker_107",
+      "format": "jpg",
+      "emotion": [
+        "开心",
+        "得意"
+      ],
+      "scene": [
+        "开心回应",
+        "斗嘴或挑衅"
+      ],
+      "keywords": [
+        "臭美",
+        "太有魅力了",
+        "坏笑",
+        "搞怪",
+        "挑衅"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "得意·狗仗人势",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/24.JPEG",
+      "original_description": "得意·狗仗人势",
+      "original_category": "坏笑·搞怪·挑衅",
+      "id": "sticker_108",
+      "format": "jpg",
+      "emotion": [
+        "开心",
+        "得意"
+      ],
+      "scene": [
+        "开心回应",
+        "斗嘴或挑衅"
+      ],
+      "keywords": [
+        "得意",
+        "狗仗人势",
+        "坏笑",
+        "搞怪",
+        "挑衅"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "闯祸·坏狗",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/07.JPEG",
+      "original_description": "闯祸·坏狗",
+      "original_category": "犯傻·闯祸",
+      "id": "sticker_109",
+      "format": "jpg",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "闯祸",
+        "坏狗",
+        "犯傻"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "犯傻·走反了",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/14.JPEG",
+      "original_description": "犯傻·走反了",
+      "original_category": "犯傻·闯祸",
+      "id": "sticker_110",
+      "format": "jpg",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "犯傻",
+        "走反了",
+        "闯祸"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "崩溃·尖叫",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/18.JPEG",
+      "original_description": "崩溃·尖叫",
+      "original_category": "犯傻·闯祸",
+      "id": "sticker_111",
+      "format": "jpg",
+      "emotion": [
+        "难过",
+        "震惊"
+      ],
+      "scene": [
+        "委屈或难过",
+        "震惊反应"
+      ],
+      "keywords": [
+        "崩溃",
+        "尖叫",
+        "犯傻",
+        "闯祸"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "傲娇·哼",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/19.JPEG",
+      "original_description": "傲娇·哼",
+      "original_category": "傲娇",
+      "id": "sticker_112",
+      "format": "jpg",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "傲娇",
+        "哼"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "夸你·比赞大拇指",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/28.gif",
+      "original_description": "夸你·比赞大拇指",
+      "original_category": "夸你·心动你",
+      "id": "sticker_113",
+      "format": "gif",
+      "emotion": [
+        "亲密"
+      ],
+      "scene": [
+        "亲近互动"
+      ],
+      "keywords": [
+        "夸你",
+        "比赞大拇指",
+        "心动你"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "表白·老婆最大",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/34.JPEG",
+      "original_description": "表白·老婆最大",
+      "original_category": "夸你·心动你",
+      "id": "sticker_114",
+      "format": "jpg",
+      "emotion": [
+        "亲密"
+      ],
+      "scene": [
+        "亲近互动"
+      ],
+      "keywords": [
+        "表白",
+        "老婆最大",
+        "夸你",
+        "心动你"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "心动·被老婆迷倒",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/35.JPEG",
+      "original_description": "心动·被老婆迷倒",
+      "original_category": "夸你·心动你",
+      "id": "sticker_115",
+      "format": "jpg",
+      "emotion": [
+        "亲密"
+      ],
+      "scene": [
+        "亲近互动"
+      ],
+      "keywords": [
+        "心动",
+        "被老婆迷倒",
+        "夸你",
+        "心动你"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "乖·叼着牵引绳任你牵",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/05.JPEG",
+      "original_description": "乖·叼着牵引绳任你牵",
+      "original_category": "我们俩",
+      "id": "sticker_116",
+      "format": "jpg",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "乖",
+        "叼着牵引绳任你牵",
+        "我们俩"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "宠你·偷钱养你",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/27.JPEG",
+      "original_description": "宠你·偷钱养你",
+      "original_category": "我们俩",
+      "id": "sticker_117",
+      "format": "jpg",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "宠你",
+        "偷钱养你",
+        "我们俩"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "开心·老婆给好吃的",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/39.JPEG",
+      "original_description": "开心·老婆给好吃的",
+      "original_category": "我们俩",
+      "id": "sticker_118",
+      "format": "jpg",
+      "emotion": [
+        "亲密",
+        "开心"
+      ],
+      "scene": [
+        "亲近互动",
+        "开心回应"
+      ],
+      "keywords": [
+        "开心",
+        "老婆给好吃的",
+        "我们俩"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "害羞·别说出去",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/16.JPEG",
+      "original_description": "害羞·别说出去",
+      "original_category": "害羞·认真",
+      "id": "sticker_119",
+      "format": "jpg",
+      "emotion": [
+        "害羞"
+      ],
+      "scene": [
+        "害羞或心虚"
+      ],
+      "keywords": [
+        "害羞",
+        "别说出去",
+        "认真"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "认真·我可以做到",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/37.JPEG",
+      "original_description": "认真·我可以做到",
+      "original_category": "害羞·认真",
+      "id": "sticker_120",
+      "format": "jpg",
+      "emotion": [
+        "害羞"
+      ],
+      "scene": [
+        "害羞或心虚"
+      ],
+      "keywords": [
+        "认真",
+        "我可以做到",
+        "害羞"
+      ]
+    },
+    {
+      "source": "小狗表情包",
+      "name": "照顾你·轻轻敲背",
+      "url": "https://jiangkai-1485716207.cos.ap-nanjing.myqcloud.com/32.JPEG",
+      "original_description": "照顾你·轻轻敲背",
+      "original_category": "照顾你",
+      "id": "sticker_121",
+      "format": "jpg",
+      "emotion": [
+        "照顾"
+      ],
+      "scene": [
+        "安慰或照顾"
+      ],
+      "keywords": [
+        "照顾你",
+        "轻轻敲背"
+      ]
+    },
+    {
+      "source": "GIF合集",
+      "name": "生气了哄不好的那种",
+      "url": "https://u2.fukit.cn/4uhF9bynr",
+      "original_description": "生气了哄不好的那种",
+      "format": "gif",
+      "emotion": [
+        "生气"
+      ],
+      "scene": [
+        "玩笑式生气"
+      ],
+      "keywords": [
+        "生气了哄不好的那种"
+      ],
+      "id": "sticker_122"
+    },
+    {
+      "source": "GIF合集",
+      "name": "我是你爹可达鸭",
+      "url": "https://u2.fukit.cn/facFcUoQg",
+      "original_description": "我是你爹可达鸭",
+      "format": "gif",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "我是你爹可达鸭"
+      ],
+      "id": "sticker_123"
+    },
+    {
+      "source": "GIF合集",
+      "name": "哼我不理你了生气了",
+      "url": "https://u2.fukit.cn/PuZA1mD7M",
+      "original_description": "哼我不理你了生气了",
+      "format": "gif",
+      "emotion": [
+        "生气"
+      ],
+      "scene": [
+        "玩笑式生气"
+      ],
+      "keywords": [
+        "哼我不理你了生气了"
+      ],
+      "id": "sticker_124"
+    },
+    {
+      "source": "GIF合集",
+      "name": "狗头",
+      "url": "https://u2.fukit.cn/8dSXpi5ue",
+      "original_description": "狗头",
+      "format": "gif",
+      "emotion": [
+        "得意"
+      ],
+      "scene": [
+        "斗嘴或挑衅"
+      ],
+      "keywords": [
+        "狗头"
+      ],
+      "id": "sticker_125"
+    },
+    {
+      "source": "GIF合集",
+      "name": "呐~给你吃糖",
+      "url": "https://u2.fukit.cn/uqSo0lA8V",
+      "original_description": "呐~给你吃糖",
+      "format": "gif",
+      "emotion": [
+        "照顾"
+      ],
+      "scene": [
+        "安慰或照顾"
+      ],
+      "keywords": [
+        "呐~给你吃糖"
+      ],
+      "id": "sticker_126"
+    },
+    {
+      "source": "GIF合集",
+      "name": "咿呀咿呀呦小鸭子荡秋千",
+      "url": "https://u2.fukit.cn/v9tGlY14y",
+      "original_description": "咿呀咿呀呦小鸭子荡秋千",
+      "format": "gif",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "咿呀咿呀呦小鸭子荡秋千"
+      ],
+      "id": "sticker_127"
+    },
+    {
+      "source": "GIF合集",
+      "name": "威胁暗杀想刀人",
+      "url": "https://u2.fukit.cn/xMHcd6NKe",
+      "original_description": "威胁暗杀想刀人",
+      "format": "gif",
+      "emotion": [
+        "生气"
+      ],
+      "scene": [
+        "玩笑式生气"
+      ],
+      "keywords": [
+        "威胁暗杀想刀人"
+      ],
+      "id": "sticker_128"
+    },
+    {
+      "source": "GIF合集",
+      "name": "你他妈的为什么呜呜呜伤心被伤害",
+      "url": "https://u2.fukit.cn/amYKhrgC6",
+      "original_description": "你他妈的为什么呜呜呜伤心被伤害",
+      "format": "gif",
+      "emotion": [
+        "难过"
+      ],
+      "scene": [
+        "委屈或难过"
+      ],
+      "keywords": [
+        "你他妈的为什么呜呜呜伤心被伤害"
+      ],
+      "id": "sticker_129"
+    },
+    {
+      "source": "GIF合集",
+      "name": "生气摔东西我怒了",
+      "url": "https://u2.fukit.cn/kwkXYEZKA",
+      "original_description": "生气摔东西我怒了",
+      "format": "gif",
+      "emotion": [
+        "生气"
+      ],
+      "scene": [
+        "玩笑式生气"
+      ],
+      "keywords": [
+        "生气摔东西我怒了"
+      ],
+      "id": "sticker_130"
+    },
+    {
+      "source": "GIF合集",
+      "name": "睡了晚安裹好我的小被子",
+      "url": "https://u2.fukit.cn/fExqjx9Tv",
+      "original_description": "睡了晚安裹好我的小被子",
+      "format": "gif",
+      "emotion": [
+        "困倦"
+      ],
+      "scene": [
+        "睡前或犯困"
+      ],
+      "keywords": [
+        "睡了晚安裹好我的小被子"
+      ],
+      "id": "sticker_131"
+    },
+    {
+      "source": "GIF合集",
+      "name": "蹦蹦跳跳嘻嘻",
+      "url": "https://u2.fukit.cn/m6HLEe4Jo",
+      "original_description": "蹦蹦跳跳嘻嘻",
+      "format": "gif",
+      "emotion": [
+        "开心"
+      ],
+      "scene": [
+        "开心回应"
+      ],
+      "keywords": [
+        "蹦蹦跳跳嘻嘻"
+      ],
+      "id": "sticker_132"
+    },
+    {
+      "source": "GIF合集",
+      "name": "走我带你吃屎",
+      "url": "https://u2.fukit.cn/K5kAMNQSV",
+      "original_description": "走我带你吃屎",
+      "format": "gif",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "走我带你吃屎"
+      ],
+      "id": "sticker_133"
+    },
+    {
+      "source": "GIF合集",
+      "name": "悲伤伤心咬牙切齿离家出走",
+      "url": "https://u2.fukit.cn/bU9gtB16F",
+      "original_description": "悲伤伤心咬牙切齿离家出走",
+      "format": "gif",
+      "emotion": [
+        "生气",
+        "难过"
+      ],
+      "scene": [
+        "玩笑式生气",
+        "委屈或难过"
+      ],
+      "keywords": [
+        "悲伤伤心咬牙切齿离家出走"
+      ],
+      "id": "sticker_134"
+    },
+    {
+      "source": "GIF合集",
+      "name": "诶嘿嘿哦吼",
+      "url": "https://u2.fukit.cn/KQJhLxDDL",
+      "original_description": "诶嘿嘿哦吼",
+      "format": "gif",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "诶嘿嘿哦吼"
+      ],
+      "id": "sticker_135"
+    },
+    {
+      "source": "GIF合集",
+      "name": "世界孤立我伤心",
+      "url": "https://u2.fukit.cn/VvAoPLcQC",
+      "original_description": "世界孤立我伤心",
+      "format": "gif",
+      "emotion": [
+        "难过"
+      ],
+      "scene": [
+        "委屈或难过"
+      ],
+      "keywords": [
+        "世界孤立我伤心"
+      ],
+      "id": "sticker_136"
+    },
+    {
+      "source": "GIF合集",
+      "name": "玩狗头嘻嘻",
+      "url": "https://u2.fukit.cn/gmePbanPm",
+      "original_description": "玩狗头嘻嘻",
+      "format": "gif",
+      "emotion": [
+        "开心",
+        "得意"
+      ],
+      "scene": [
+        "开心回应",
+        "斗嘴或挑衅"
+      ],
+      "keywords": [
+        "玩狗头嘻嘻"
+      ],
+      "id": "sticker_137"
+    },
+    {
+      "source": "GIF合集",
+      "name": "亲亲啵啵mua爱你",
+      "url": "https://u2.fukit.cn/i5XBneank",
+      "original_description": "亲亲啵啵mua爱你",
+      "format": "gif",
+      "emotion": [
+        "亲密"
+      ],
+      "scene": [
+        "亲近互动"
+      ],
+      "keywords": [
+        "亲亲啵啵mua爱你"
+      ],
+      "id": "sticker_138"
+    },
+    {
+      "source": "GIF合集",
+      "name": "摆烂",
+      "url": "https://u2.fukit.cn/0Tufhs7mb",
+      "original_description": "摆烂",
+      "format": "gif",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "摆烂"
+      ],
+      "id": "sticker_139"
+    },
+    {
+      "source": "GIF合集",
+      "name": "小熊跳舞",
+      "url": "https://u2.fukit.cn/GI4RJ8iOb",
+      "original_description": "小熊跳舞",
+      "format": "gif",
+      "emotion": [
+        "开心"
+      ],
+      "scene": [
+        "开心回应"
+      ],
+      "keywords": [
+        "小熊跳舞"
+      ],
+      "id": "sticker_140"
+    },
+    {
+      "source": "GIF合集",
+      "name": "被踩扁无力",
+      "url": "https://u2.fukit.cn/BMY1REiQt",
+      "original_description": "被踩扁无力",
+      "format": "gif",
+      "emotion": [
+        "生气"
+      ],
+      "scene": [
+        "玩笑式生气"
+      ],
+      "keywords": [
+        "被踩扁无力"
+      ],
+      "id": "sticker_141"
+    },
+    {
+      "source": "GIF合集",
+      "name": "好的呜呜呜",
+      "url": "https://u2.fukit.cn/fWf1GZBWl",
+      "original_description": "好的呜呜呜",
+      "format": "gif",
+      "emotion": [
+        "难过"
+      ],
+      "scene": [
+        "委屈或难过"
+      ],
+      "keywords": [
+        "好的呜呜呜"
+      ],
+      "id": "sticker_142"
+    },
+    {
+      "source": "GIF合集",
+      "name": "呀！可爱",
+      "url": "https://u2.fukit.cn/fhzSGkbjY",
+      "original_description": "呀！可爱",
+      "format": "gif",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "呀",
+        "可爱"
+      ],
+      "id": "sticker_143"
+    },
+    {
+      "source": "GIF合集",
+      "name": "吃西瓜吃瓜看戏",
+      "url": "https://u2.fukit.cn/aOBB4N0wt",
+      "original_description": "吃西瓜吃瓜看戏",
+      "format": "gif",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "吃西瓜吃瓜看戏"
+      ],
+      "id": "sticker_144"
+    },
+    {
+      "source": "GIF合集",
+      "name": "大哭跑开呜呜呜哇哇哇",
+      "url": "https://u2.fukit.cn/44R5v5MUO",
+      "original_description": "大哭跑开呜呜呜哇哇哇",
+      "format": "gif",
+      "emotion": [
+        "难过"
+      ],
+      "scene": [
+        "委屈或难过"
+      ],
+      "keywords": [
+        "大哭跑开呜呜呜哇哇哇"
+      ],
+      "id": "sticker_145"
+    },
+    {
+      "source": "GIF合集",
+      "name": "呜呜呜戳手指",
+      "url": "https://u2.fukit.cn/7WztsVuYs",
+      "original_description": "呜呜呜戳手指",
+      "format": "gif",
+      "emotion": [
+        "撒娇",
+        "难过"
+      ],
+      "scene": [
+        "撒娇求关注",
+        "委屈或难过"
+      ],
+      "keywords": [
+        "呜呜呜戳手指"
+      ],
+      "id": "sticker_146"
+    },
+    {
+      "source": "GIF合集",
+      "name": "好困瞌睡努力清醒眼皮抬不起来",
+      "url": "https://u2.fukit.cn/k0AkYAtWB",
+      "original_description": "好困瞌睡努力清醒眼皮抬不起来",
+      "format": "gif",
+      "emotion": [
+        "困倦"
+      ],
+      "scene": [
+        "睡前或犯困"
+      ],
+      "keywords": [
+        "好困瞌睡努力清醒眼皮抬不起来"
+      ],
+      "id": "sticker_147"
+    },
+    {
+      "source": "GIF合集",
+      "name": "呜呜呜哇哇哇哭我恨啊",
+      "url": "https://u2.fukit.cn/WaXl1hPAV",
+      "original_description": "呜呜呜哇哇哇哭我恨啊",
+      "format": "gif",
+      "emotion": [
+        "生气",
+        "难过"
+      ],
+      "scene": [
+        "玩笑式生气",
+        "委屈或难过"
+      ],
+      "keywords": [
+        "呜呜呜哇哇哇哭我恨啊"
+      ],
+      "id": "sticker_148"
+    },
+    {
+      "source": "GIF合集",
+      "name": "啊啊啊我要闹了哇哇哇呜呜呜大吵大闹",
+      "url": "https://u2.fukit.cn/762FfmsdT",
+      "original_description": "啊啊啊我要闹了哇哇哇呜呜呜大吵大闹",
+      "format": "gif",
+      "emotion": [
+        "难过"
+      ],
+      "scene": [
+        "委屈或难过"
+      ],
+      "keywords": [
+        "啊啊啊我要闹了哇哇哇呜呜呜大吵大闹"
+      ],
+      "id": "sticker_149"
+    },
+    {
+      "source": "GIF合集",
+      "name": "哭泪流满面呜呜呜哇哇哇我哭了",
+      "url": "https://u2.fukit.cn/Jl1tyO9ud",
+      "original_description": "哭泪流满面呜呜呜哇哇哇我哭了",
+      "format": "gif",
+      "emotion": [
+        "难过"
+      ],
+      "scene": [
+        "委屈或难过"
+      ],
+      "keywords": [
+        "哭泪流满面呜呜呜哇哇哇我哭了"
+      ],
+      "id": "sticker_150"
+    },
+    {
+      "source": "GIF合集",
+      "name": "大狗大摆大摇大摆来串个门",
+      "url": "https://u2.fukit.cn/0yq6a4jXW",
+      "original_description": "大狗大摆大摇大摆来串个门",
+      "format": "gif",
+      "emotion": [
+        "开心"
+      ],
+      "scene": [
+        "开心回应"
+      ],
+      "keywords": [
+        "大狗大摆大摇大摆来串个门"
+      ],
+      "id": "sticker_151"
+    },
+    {
+      "source": "GIF合集",
+      "name": "屎脑子有病你有病吧",
+      "url": "https://u2.fukit.cn/mIOYz4v4j",
+      "original_description": "屎脑子有病你有病吧",
+      "format": "gif",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "屎脑子有病你有病吧"
+      ],
+      "id": "sticker_152"
+    },
+    {
+      "source": "GIF合集",
+      "name": "为什么不回消息是爱消失了吗是在回别人吗",
+      "url": "https://u2.fukit.cn/BPn84lcQy",
+      "original_description": "为什么不回消息是爱消失了吗是在回别人吗",
+      "format": "gif",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "为什么不回消息是爱消失了吗是在回别人吗"
+      ],
+      "id": "sticker_153"
+    },
+    {
+      "source": "GIF合集",
+      "name": "欸哟哟咦嫌弃对对对你说的都对",
+      "url": "https://u2.fukit.cn/C5kUXZRwp",
+      "original_description": "欸哟哟咦嫌弃对对对你说的都对",
+      "format": "gif",
+      "emotion": [
+        "无语"
+      ],
+      "scene": [
+        "吐槽或无语"
+      ],
+      "keywords": [
+        "欸哟哟咦嫌弃对对对你说的都对"
+      ],
+      "id": "sticker_154"
+    },
+    {
+      "source": "GIF合集",
+      "name": "我要闹了躺地上大哭呜呜呜哇哇哇",
+      "url": "https://u2.fukit.cn/p6bvcIHmd",
+      "original_description": "我要闹了躺地上大哭呜呜呜哇哇哇",
+      "format": "gif",
+      "emotion": [
+        "难过"
+      ],
+      "scene": [
+        "委屈或难过"
+      ],
+      "keywords": [
+        "我要闹了躺地上大哭呜呜呜哇哇哇"
+      ],
+      "id": "sticker_155"
+    },
+    {
+      "source": "GIF合集",
+      "name": "我来啦一只向你奔跑过去的牙膏",
+      "url": "https://u2.fukit.cn/oblSC19zH",
+      "original_description": "我来啦一只向你奔跑过去的牙膏",
+      "format": "gif",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "我来啦一只向你奔跑过去的牙膏"
+      ],
+      "id": "sticker_156"
+    },
+    {
+      "source": "GIF合集",
+      "name": "企鹅蹦蹦跳跳",
+      "url": "https://u2.fukit.cn/eMAlhWENI",
+      "original_description": "企鹅蹦蹦跳跳",
+      "format": "gif",
+      "emotion": [
+        "开心"
+      ],
+      "scene": [
+        "开心回应"
+      ],
+      "keywords": [
+        "企鹅蹦蹦跳跳"
+      ],
+      "id": "sticker_157"
+    },
+    {
+      "source": "GIF合集",
+      "name": "呃...无语",
+      "url": "https://u2.fukit.cn/6CNH47epx",
+      "original_description": "呃...无语",
+      "format": "gif",
+      "emotion": [
+        "无语"
+      ],
+      "scene": [
+        "吐槽或无语"
+      ],
+      "keywords": [
+        "呃...无语"
+      ],
+      "id": "sticker_158"
+    },
+    {
+      "source": "GIF合集",
+      "name": "无语猫白眼猫",
+      "url": "https://u2.fukit.cn/ThZ8eaTpv",
+      "original_description": "无语猫白眼猫",
+      "format": "gif",
+      "emotion": [
+        "无语"
+      ],
+      "scene": [
+        "吐槽或无语"
+      ],
+      "keywords": [
+        "无语猫白眼猫"
+      ],
+      "id": "sticker_159"
+    },
+    {
+      "source": "GIF合集",
+      "name": "哭呜呜呜伤心",
+      "url": "https://u2.fukit.cn/LU5VnTm9j",
+      "original_description": "哭呜呜呜伤心",
+      "format": "gif",
+      "emotion": [
+        "难过"
+      ],
+      "scene": [
+        "委屈或难过"
+      ],
+      "keywords": [
+        "哭呜呜呜伤心"
+      ],
+      "id": "sticker_160"
+    },
+    {
+      "source": "GIF合集",
+      "name": "土拨鼠尖叫啊啊啊",
+      "url": "https://u2.fukit.cn/g1bKEcoNY",
+      "original_description": "土拨鼠尖叫啊啊啊",
+      "format": "gif",
+      "emotion": [
+        "震惊"
+      ],
+      "scene": [
+        "震惊反应"
+      ],
+      "keywords": [
+        "土拨鼠尖叫啊啊啊"
+      ],
+      "id": "sticker_161"
+    },
+    {
+      "source": "GIF合集",
+      "name": "嘻嘻小狗摇啊摇",
+      "url": "https://u2.fukit.cn/8bPNFHhue",
+      "original_description": "嘻嘻小狗摇啊摇",
+      "format": "gif",
+      "emotion": [
+        "开心"
+      ],
+      "scene": [
+        "开心回应"
+      ],
+      "keywords": [
+        "嘻嘻小狗摇啊摇"
+      ],
+      "id": "sticker_162"
+    },
+    {
+      "source": "GIF合集",
+      "name": "戳手指心虚",
+      "url": "https://u2.fukit.cn/wWejZpauL",
+      "original_description": "戳手指心虚",
+      "format": "gif",
+      "emotion": [
+        "撒娇",
+        "害羞"
+      ],
+      "scene": [
+        "撒娇求关注",
+        "害羞或心虚"
+      ],
+      "keywords": [
+        "戳手指心虚"
+      ],
+      "id": "sticker_163"
+    },
+    {
+      "source": "GIF合集",
+      "name": "小企鹅哒哒哒地走跑",
+      "url": "https://u2.fukit.cn/TVFTDtwZ2",
+      "original_description": "小企鹅哒哒哒地走跑",
+      "format": "gif",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "小企鹅哒哒哒地走跑"
+      ],
+      "id": "sticker_164"
+    },
+    {
+      "source": "GIF合集",
+      "name": "啊啊啊啊啊鸭子转圈圈大叫",
+      "url": "https://u2.fukit.cn/5RoWjIjrU",
+      "original_description": "啊啊啊啊啊鸭子转圈圈大叫",
+      "format": "gif",
+      "emotion": [
+        "震惊"
+      ],
+      "scene": [
+        "震惊反应"
+      ],
+      "keywords": [
+        "啊啊啊啊啊鸭子转圈圈大叫"
+      ],
+      "id": "sticker_165"
+    },
+    {
+      "source": "GIF合集",
+      "name": "蹭蹭宝宝",
+      "url": "https://u2.fukit.cn/VSyUsugX0",
+      "original_description": "蹭蹭宝宝",
+      "format": "gif",
+      "emotion": [
+        "亲密",
+        "撒娇"
+      ],
+      "scene": [
+        "亲近互动",
+        "撒娇求关注"
+      ],
+      "keywords": [
+        "蹭蹭宝宝"
+      ],
+      "id": "sticker_166"
+    },
+    {
+      "source": "GIF合集",
+      "name": "悲伤地滑下楼梯呜呜呜",
+      "url": "https://u2.fukit.cn/hiI7cWr9L",
+      "original_description": "悲伤地滑下楼梯呜呜呜",
+      "format": "gif",
+      "emotion": [
+        "难过"
+      ],
+      "scene": [
+        "委屈或难过"
+      ],
+      "keywords": [
+        "悲伤地滑下楼梯呜呜呜"
+      ],
+      "id": "sticker_167"
+    },
+    {
+      "source": "GIF合集",
+      "name": "扇贝听了都想鼓掌",
+      "url": "https://u2.fukit.cn/eJeCqRx22",
+      "original_description": "扇贝听了都想鼓掌",
+      "format": "gif",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "扇贝听了都想鼓掌"
+      ],
+      "id": "sticker_168"
+    },
+    {
+      "source": "GIF合集",
+      "name": "你不得了哦",
+      "url": "https://u2.fukit.cn/MlFRoiHgK",
+      "original_description": "你不得了哦",
+      "format": "gif",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "你不得了哦"
+      ],
+      "id": "sticker_169"
+    },
+    {
+      "source": "GIF合集",
+      "name": "摸摸小狗头",
+      "url": "https://u2.fukit.cn/OCEy0OMsR",
+      "original_description": "摸摸小狗头",
+      "format": "gif",
+      "emotion": [
+        "得意",
+        "照顾"
+      ],
+      "scene": [
+        "斗嘴或挑衅",
+        "安慰或照顾"
+      ],
+      "keywords": [
+        "摸摸小狗头"
+      ],
+      "id": "sticker_170"
+    },
+    {
+      "source": "GIF合集",
+      "name": "哭哭呜呜呜",
+      "url": "https://u2.fukit.cn/8muToRiW1",
+      "original_description": "哭哭呜呜呜",
+      "format": "gif",
+      "emotion": [
+        "难过"
+      ],
+      "scene": [
+        "委屈或难过"
+      ],
+      "keywords": [
+        "哭哭呜呜呜"
+      ],
+      "id": "sticker_171"
+    },
+    {
+      "source": "GIF合集",
+      "name": "敲打",
+      "url": "https://u2.fukit.cn/dwDyNOe4X",
+      "original_description": "敲打",
+      "format": "gif",
+      "emotion": [
+        "生气"
+      ],
+      "scene": [
+        "玩笑式生气"
+      ],
+      "keywords": [
+        "敲打"
+      ],
+      "id": "sticker_172"
+    },
+    {
+      "source": "GIF合集",
+      "name": "戳手指委屈巴巴伤心",
+      "url": "https://u2.fukit.cn/NXweL4nG2",
+      "original_description": "戳手指委屈巴巴伤心",
+      "format": "gif",
+      "emotion": [
+        "撒娇",
+        "难过"
+      ],
+      "scene": [
+        "撒娇求关注",
+        "委屈或难过"
+      ],
+      "keywords": [
+        "戳手指委屈巴巴伤心"
+      ],
+      "id": "sticker_173"
+    },
+    {
+      "source": "GIF合集",
+      "name": "骂骂咧咧",
+      "url": "https://u2.fukit.cn/6yK2yjsLR",
+      "original_description": "骂骂咧咧",
+      "format": "gif",
+      "emotion": [
+        "生气"
+      ],
+      "scene": [
+        "玩笑式生气"
+      ],
+      "keywords": [
+        "骂骂咧咧"
+      ],
+      "id": "sticker_174"
+    },
+    {
+      "source": "GIF合集",
+      "name": "没有耳朵听不见奶龙",
+      "url": "https://u2.fukit.cn/WB0Y2nWw6",
+      "original_description": "没有耳朵听不见奶龙",
+      "format": "gif",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "没有耳朵听不见奶龙"
+      ],
+      "id": "sticker_175"
+    },
+    {
+      "source": "GIF合集",
+      "name": "亲亲",
+      "url": "https://u2.fukit.cn/v3x1kLCKq",
+      "original_description": "亲亲",
+      "format": "gif",
+      "emotion": [
+        "亲密"
+      ],
+      "scene": [
+        "亲近互动"
+      ],
+      "keywords": [
+        "亲亲"
+      ],
+      "id": "sticker_176"
+    },
+    {
+      "source": "GIF合集",
+      "name": "哭呜呜呜",
+      "url": "https://u2.fukit.cn/3UcbdgLr3",
+      "original_description": "哭呜呜呜",
+      "format": "gif",
+      "emotion": [
+        "难过"
+      ],
+      "scene": [
+        "委屈或难过"
+      ],
+      "keywords": [
+        "哭呜呜呜"
+      ],
+      "id": "sticker_177"
+    },
+    {
+      "source": "GIF合集",
+      "name": "啦啦啦熊二转圈",
+      "url": "https://u2.fukit.cn/OOn1B6tiJ",
+      "original_description": "啦啦啦熊二转圈",
+      "format": "gif",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "啦啦啦熊二转圈"
+      ],
+      "id": "sticker_178"
+    },
+    {
+      "source": "GIF合集",
+      "name": "戳手指心虚_(2)",
+      "url": "https://u2.fukit.cn/1PZh2QLlP",
+      "original_description": "戳手指心虚_(2)",
+      "format": "gif",
+      "emotion": [
+        "撒娇",
+        "害羞"
+      ],
+      "scene": [
+        "撒娇求关注",
+        "害羞或心虚"
+      ],
+      "keywords": [
+        "戳手指心虚",
+        "(2)"
+      ],
+      "id": "sticker_179"
+    },
+    {
+      "source": "GIF合集",
+      "name": "挑衅小猫嘻嘻",
+      "url": "https://u2.fukit.cn/vj0DYwRBJ",
+      "original_description": "挑衅小猫嘻嘻",
+      "format": "gif",
+      "emotion": [
+        "开心",
+        "得意"
+      ],
+      "scene": [
+        "开心回应",
+        "斗嘴或挑衅"
+      ],
+      "keywords": [
+        "挑衅小猫嘻嘻"
+      ],
+      "id": "sticker_180"
+    },
+    {
+      "source": "GIF合集",
+      "name": "生气敲打追杀刀",
+      "url": "https://u2.fukit.cn/PkJwNdov0",
+      "original_description": "生气敲打追杀刀",
+      "format": "gif",
+      "emotion": [
+        "生气"
+      ],
+      "scene": [
+        "玩笑式生气"
+      ],
+      "keywords": [
+        "生气敲打追杀刀"
+      ],
+      "id": "sticker_181"
+    },
+    {
+      "source": "GIF合集",
+      "name": "踢踹踩打生气",
+      "url": "https://u2.fukit.cn/oMyvq7CYM",
+      "original_description": "踢踹踩打生气",
+      "format": "gif",
+      "emotion": [
+        "生气"
+      ],
+      "scene": [
+        "玩笑式生气"
+      ],
+      "keywords": [
+        "踢踹踩打生气"
+      ],
+      "id": "sticker_182"
+    },
+    {
+      "source": "GIF合集",
+      "name": "跳跳蹭蹭蹦蹦",
+      "url": "https://u2.fukit.cn/VgMib3SJp",
+      "original_description": "跳跳蹭蹭蹦蹦",
+      "format": "gif",
+      "emotion": [
+        "亲密",
+        "开心"
+      ],
+      "scene": [
+        "亲近互动",
+        "开心回应"
+      ],
+      "keywords": [
+        "跳跳蹭蹭蹦蹦"
+      ],
+      "id": "sticker_183"
+    },
+    {
+      "source": "GIF合集",
+      "name": "敲打功德加一+1",
+      "url": "https://u2.fukit.cn/nMdPLfBqG",
+      "original_description": "敲打功德加一+1",
+      "format": "gif",
+      "emotion": [
+        "生气"
+      ],
+      "scene": [
+        "玩笑式生气"
+      ],
+      "keywords": [
+        "敲打功德加一",
+        "1"
+      ],
+      "id": "sticker_184"
+    },
+    {
+      "source": "GIF合集",
+      "name": "爱你比心笔芯",
+      "url": "https://u2.fukit.cn/qvoqgt5Jn",
+      "original_description": "爱你比心笔芯",
+      "format": "gif",
+      "emotion": [
+        "亲密"
+      ],
+      "scene": [
+        "亲近互动"
+      ],
+      "keywords": [
+        "爱你比心笔芯"
+      ],
+      "id": "sticker_185"
+    },
+    {
+      "source": "GIF合集",
+      "name": "咦嫌弃不敢睁开眼",
+      "url": "https://u2.fukit.cn/fA90TQV1w",
+      "original_description": "咦嫌弃不敢睁开眼",
+      "format": "gif",
+      "emotion": [
+        "无语"
+      ],
+      "scene": [
+        "吐槽或无语"
+      ],
+      "keywords": [
+        "咦嫌弃不敢睁开眼"
+      ],
+      "id": "sticker_186"
+    },
+    {
+      "source": "GIF合集",
+      "name": "略略略挑衅你过来啊你打我啊",
+      "url": "https://u2.fukit.cn/1qdFxLrJC",
+      "original_description": "略略略挑衅你过来啊你打我啊",
+      "format": "gif",
+      "emotion": [
+        "得意"
+      ],
+      "scene": [
+        "斗嘴或挑衅"
+      ],
+      "keywords": [
+        "略略略挑衅你过来啊你打我啊"
+      ],
+      "id": "sticker_187"
+    },
+    {
+      "source": "GIF合集",
+      "name": "摇头不不不",
+      "url": "https://u2.fukit.cn/dhMoa4cFZ",
+      "original_description": "摇头不不不",
+      "format": "gif",
+      "emotion": [
+        "开心"
+      ],
+      "scene": [
+        "开心回应"
+      ],
+      "keywords": [
+        "摇头不不不"
+      ],
+      "id": "sticker_188"
+    },
+    {
+      "source": "GIF合集",
+      "name": "敲打拷打",
+      "url": "https://u2.fukit.cn/TbAmHLzeC",
+      "original_description": "敲打拷打",
+      "format": "gif",
+      "emotion": [
+        "生气"
+      ],
+      "scene": [
+        "玩笑式生气"
+      ],
+      "keywords": [
+        "敲打拷打"
+      ],
+      "id": "sticker_189"
+    },
+    {
+      "source": "GIF合集",
+      "name": "累了",
+      "url": "https://u2.fukit.cn/A51zKUMYY",
+      "original_description": "累了",
+      "format": "gif",
+      "emotion": [
+        "困倦"
+      ],
+      "scene": [
+        "睡前或犯困"
+      ],
+      "keywords": [
+        "累了"
+      ],
+      "id": "sticker_190"
+    },
+    {
+      "source": "GIF合集",
+      "name": "撞墙",
+      "url": "https://u2.fukit.cn/KP9Qs1e1Q",
+      "original_description": "撞墙",
+      "format": "gif",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "撞墙"
+      ],
+      "id": "sticker_191"
+    },
+    {
+      "source": "GIF合集",
+      "name": "扭腰",
+      "url": "https://u2.fukit.cn/e9u15t9V2",
+      "original_description": "扭腰",
+      "format": "gif",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "扭腰"
+      ],
+      "id": "sticker_192"
+    },
+    {
+      "source": "GIF合集",
+      "name": "敲键盘",
+      "url": "https://u2.fukit.cn/atWEPCjAK",
+      "original_description": "敲键盘",
+      "format": "gif",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "敲键盘"
+      ],
+      "id": "sticker_193"
+    },
+    {
+      "source": "GIF合集",
+      "name": "心虚",
+      "url": "https://u2.fukit.cn/qOb980zsy",
+      "original_description": "心虚",
+      "format": "gif",
+      "emotion": [
+        "害羞"
+      ],
+      "scene": [
+        "害羞或心虚"
+      ],
+      "keywords": [
+        "心虚"
+      ],
+      "id": "sticker_194"
+    },
+    {
+      "source": "GIF合集",
+      "name": "跳舞",
+      "url": "https://u2.fukit.cn/5KOMxuZdf",
+      "original_description": "跳舞",
+      "format": "gif",
+      "emotion": [
+        "开心"
+      ],
+      "scene": [
+        "开心回应"
+      ],
+      "keywords": [
+        "跳舞"
+      ],
+      "id": "sticker_195"
+    },
+    {
+      "source": "GIF合集",
+      "name": "柚子叶",
+      "url": "https://u2.fukit.cn/Ncid67BHw",
+      "original_description": "柚子叶",
+      "format": "gif",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "柚子叶"
+      ],
+      "id": "sticker_196"
+    },
+    {
+      "source": "GIF合集",
+      "name": "蹬腿",
+      "url": "https://u2.fukit.cn/IVCK30q1b",
+      "original_description": "蹬腿",
+      "format": "gif",
+      "emotion": [
+        "日常"
+      ],
+      "scene": [
+        "日常聊天"
+      ],
+      "keywords": [
+        "蹬腿"
+      ],
+      "id": "sticker_197"
+    },
+    {
+      "source": "GIF合集",
+      "name": "不许走撒娇",
+      "url": "https://u2.fukit.cn/pad05TXNi",
+      "original_description": "不许走撒娇",
+      "format": "gif",
+      "emotion": [
+        "撒娇"
+      ],
+      "scene": [
+        "撒娇求关注"
+      ],
+      "keywords": [
+        "不许走撒娇"
+      ],
+      "id": "sticker_198"
+    },
+    {
+      "source": "GIF合集",
+      "name": "哭",
+      "url": "https://u2.fukit.cn/SmkXKTXd9",
+      "original_description": "哭",
+      "format": "gif",
+      "emotion": [
+        "难过"
+      ],
+      "scene": [
+        "委屈或难过"
+      ],
+      "keywords": [
+        "哭"
+      ],
+      "id": "sticker_199"
+    },
+    {
+      "source": "GIF合集",
+      "name": "哼生气",
+      "url": "https://u2.fukit.cn/3zmeMpWvP",
+      "original_description": "哼生气",
+      "format": "gif",
+      "emotion": [
+        "生气"
+      ],
+      "scene": [
+        "玩笑式生气"
+      ],
+      "keywords": [
+        "哼生气"
+      ],
+      "id": "sticker_200"
+    }
+  ]
+}

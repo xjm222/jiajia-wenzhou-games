@@ -1,1 +1,8 @@
-# jiajia-wenzhou-games
+# 闻舟专属表情包库
+
+共收录 **200** 条表情包索引，来自佳佳提供的四份资料。
+
+- `manifest.json`：完整机器可读索引
+- 保留原始图片/GIF直链和原始描述
+- 可按 `scene`、`emotion`、`keywords` 检索
+- 建议偶尔发送，不要每条回复都发表情包
